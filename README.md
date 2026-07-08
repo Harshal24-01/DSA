@@ -1,2 +1,2 @@
-# DSA-
+# DSA
 Practicing My DSA skills
