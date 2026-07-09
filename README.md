@@ -8,11 +8,13 @@ Practicing My DSA skills
 | ------- |
 | [0001-two-sum](https://github.com/Harshal24-01/DSA/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -22,6 +24,7 @@ Practicing My DSA skills
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
