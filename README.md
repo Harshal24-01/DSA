@@ -16,6 +16,7 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshal24-01/DSA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Harshal24-01/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Harshal24-01/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -36,4 +37,8 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshal24-01/DSA/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Harshal24-01/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
