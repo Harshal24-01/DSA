@@ -61,4 +61,8 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Harshal24-01/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
