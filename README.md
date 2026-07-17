@@ -39,6 +39,7 @@ Practicing My DSA skills
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Harshal24-01/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Harshal24-01/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -68,5 +69,6 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Harshal24-01/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Harshal24-01/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Harshal24-01/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
