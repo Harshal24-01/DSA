@@ -22,6 +22,7 @@ Practicing My DSA skills
 | [0075-sort-colors](https://github.com/Harshal24-01/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Harshal24-01/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harshal24-01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Harshal24-01/DSA/tree/master/0202-happy-number) |
@@ -51,6 +52,7 @@ Practicing My DSA skills
 | ------- |
 | [0001-two-sum](https://github.com/Harshal24-01/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Harshal24-01/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harshal24-01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Harshal24-01/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
@@ -58,6 +60,7 @@ Practicing My DSA skills
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshal24-01/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Harshal24-01/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harshal24-01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
