@@ -86,6 +86,7 @@ Practicing My DSA skills
 | [0009-palindrome-number](https://github.com/Harshal24-01/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Harshal24-01/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Harshal24-01/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Harshal24-01/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
@@ -94,5 +95,10 @@ Practicing My DSA skills
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Harshal24-01/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harshal24-01/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
