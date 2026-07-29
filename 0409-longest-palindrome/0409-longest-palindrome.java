@@ -1,25 +1,19 @@
 class Solution {
     public int longestPalindrome(String s) {
 
-        int[] freq = new int[128];
+        HashSet<Character> set = new HashSet<>();
+        int length = 0;
 
         for (char ch : s.toCharArray()) {
-            freq[ch]++;
-        }
-
-        int length = 0;
-        boolean odd = false;
-
-        for (int count : freq) {
-            if (count % 2 == 0) {
-                length += count;
+            if (set.contains(ch)) {
+                length += 2;
+                set.remove(ch);
             } else {
-                length += count - 1;
-                odd = true;
+                set.add(ch);
             }
         }
 
-        if (odd) {
+        if (!set.isEmpty()) {
             length++;
         }
 
