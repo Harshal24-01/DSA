@@ -1,36 +1,62 @@
 class Solution {
+    public int CalNextInd(int[] nums, int curr) {
+        int next = curr;
+        int seq = nums[curr];
 
-    private int nextIndex(int[] nums, boolean forward, int current) {
-        boolean direction = nums[current] >= 0;
-        if (direction != forward)
-            return -1;
-
-        int n = nums.length;
-        int next = ((current + nums[current]) % n + n) % n;
-
-        if (next == current)
-            return -1;
+        if (seq > 0) {
+            // positive rotation
+            next = (next + seq) % nums.length;
+        } else {
+            // negative rotation
+            int mod = seq % nums.length;
+            int forward = mod + nums.length;
+            next = (curr + forward) % nums.length;
+        }
         return next;
     }
 
     public boolean circularArrayLoop(int[] nums) {
-        int n = nums.length;
-        for (int i = 0; i < n; i++) {
-            boolean forward = nums[i] >= 0;
-            int slow = i;
-            int fast = i;
+        for (int i = 0; i < nums.length; i++) {
+            Set<Integer> set = new HashSet<>();
+            // set -> indexes visited so far
+            // flag -> is positive if nums[i] > 0 or all negative
+            set.add(i);
+            boolean isPos = nums[i] > 0;
+            // cycle detection
+            int curr = i;
+
             while (true) {
-                slow = nextIndex(nums, forward, slow);
-                if (slow == -1)
-                    break;
-                fast = nextIndex(nums, forward, fast);
-                if (fast == -1)
-                    break;
-                fast = nextIndex(nums, forward, fast);
-                if (fast == -1)
-                    break;
-                if (slow == fast)
-                    return true;
+                int next = CalNextInd(nums, curr);
+                if (isPos) {
+                    if (nums[next] < 0) {
+                        break;
+                    } else {
+                        if (set.contains(next)) {
+                            // cycle exisys
+                            if (curr != next) {
+                                return true;
+                            } else {
+                                break;
+                            }
+                        }
+                        set.add(next);
+                    }
+                } else {
+                    if (nums[next] > 0) {
+                        break;
+                    } else {
+                        if (set.contains(next)) {
+                            // cycle exisys
+                            if (curr != next) {
+                                return true;
+                            } else {
+                                break;
+                            }
+                        }
+                        set.add(next);
+                    }
+                }
+                curr = next;
             }
         }
         return false;
