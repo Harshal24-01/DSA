@@ -1,64 +1,88 @@
 class Solution {
-    public int CalNextInd(int[] nums, int curr) {
-        int next = curr;
-        int seq = nums[curr];
 
-        if (seq > 0) {
-            // positive rotation
-            next = (next + seq) % nums.length;
-        } else {
-            // negative rotation
-            int mod = seq % nums.length;
-            int forward = mod + nums.length;
-            next = (curr + forward) % nums.length;
-        }
+    public int CalNextInd(int[] nums, int curr) {
+        int next = ((curr + nums[curr]) % nums.length + nums.length) % nums.length;
         return next;
     }
 
     public boolean circularArrayLoop(int[] nums) {
+
         for (int i = 0; i < nums.length; i++) {
-            Set<Integer> set = new HashSet<>();
-            // set -> indexes visited so far
-            // flag -> is positive if nums[i] > 0 or all negative
-            set.add(i);
+
+            if (nums[i] == 0) {
+                continue;
+            }
+
             boolean isPos = nums[i] > 0;
-            // cycle detection
+
+            int slow = i;
+            int fast = i;
             int curr = i;
 
             while (true) {
-                int next = CalNextInd(nums, curr);
+
+                // Move slow one step
+                slow = CalNextInd(nums, slow);
+
                 if (isPos) {
-                    if (nums[next] < 0) {
+                    if (nums[slow] < 0)
                         break;
-                    } else {
-                        if (set.contains(next)) {
-                            // cycle exisys
-                            if (curr != next) {
-                                return true;
-                            } else {
-                                break;
-                            }
-                        }
-                        set.add(next);
-                    }
                 } else {
-                    if (nums[next] > 0) {
+                    if (nums[slow] > 0)
                         break;
-                    } else {
-                        if (set.contains(next)) {
-                            // cycle exisys
-                            if (curr != next) {
-                                return true;
-                            } else {
-                                break;
-                            }
-                        }
-                        set.add(next);
-                    }
                 }
-                curr = next;
+
+                // Move fast one step
+                fast = CalNextInd(nums, fast);
+
+                if (isPos) {
+                    if (nums[fast] < 0)
+                        break;
+                } else {
+                    if (nums[fast] > 0)
+                        break;
+                }
+
+                // Move fast second step
+                fast = CalNextInd(nums, fast);
+
+                if (isPos) {
+                    if (nums[fast] < 0)
+                        break;
+                } else {
+                    if (nums[fast] > 0)
+                        break;
+                }
+
+                if (slow == fast) {
+
+                    // Ignore one-element loop
+                    if (slow == CalNextInd(nums, slow))
+                        break;
+
+                    return true;
+                }
+            }
+
+            // Mark visited nodes as 0
+            if (isPos) {
+
+                while (nums[curr] > 0) {
+                    int next = CalNextInd(nums, curr);
+                    nums[curr] = 0;
+                    curr = next;
+                }
+
+            } else {
+
+                while (nums[curr] < 0) {
+                    int next = CalNextInd(nums, curr);
+                    nums[curr] = 0;
+                    curr = next;
+                }
             }
         }
+
         return false;
     }
 }
