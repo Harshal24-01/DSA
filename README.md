@@ -15,6 +15,7 @@ Practicing My DSA skills
 | [0136-single-number](https://github.com/Harshal24-01/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Harshal24-01/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal24-01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Harshal24-01/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal24-01/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -50,6 +51,7 @@ Practicing My DSA skills
 | [0015-3sum](https://github.com/Harshal24-01/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Harshal24-01/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -68,6 +70,7 @@ Practicing My DSA skills
 | [0001-two-sum](https://github.com/Harshal24-01/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Harshal24-01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshal24-01/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Harshal24-01/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal24-01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -132,4 +135,12 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Harshal24-01/DSA/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
