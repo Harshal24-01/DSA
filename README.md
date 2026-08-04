@@ -7,6 +7,7 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshal24-01/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Harshal24-01/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Harshal24-01/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Harshal24-01/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Harshal24-01/DSA/tree/master/0035-search-insert-position) |
@@ -91,6 +92,7 @@ Practicing My DSA skills
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Harshal24-01/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Harshal24-01/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshal24-01/DSA/tree/master/0409-longest-palindrome) |
@@ -148,4 +150,8 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Harshal24-01/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
