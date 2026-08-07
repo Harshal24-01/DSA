@@ -12,6 +12,7 @@ Practicing My DSA skills
 | [0027-remove-element](https://github.com/Harshal24-01/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Harshal24-01/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Harshal24-01/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Harshal24-01/DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Harshal24-01/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Harshal24-01/DSA/tree/master/0136-single-number) |
@@ -112,6 +113,7 @@ Practicing My DSA skills
 | [0002-add-two-numbers](https://github.com/Harshal24-01/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Harshal24-01/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshal24-01/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Harshal24-01/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Harshal24-01/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Harshal24-01/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Harshal24-01/DSA/tree/master/0258-add-digits) |
@@ -160,4 +162,5 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Harshal24-01/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Harshal24-01/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
