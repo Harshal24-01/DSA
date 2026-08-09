@@ -26,6 +26,7 @@ Practicing My DSA skills
 | [0414-third-maximum-number](https://github.com/Harshal24-01/DSA/tree/master/0414-third-maximum-number) |
 | [0457-circular-array-loop](https://github.com/Harshal24-01/DSA/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/Harshal24-01/DSA/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshal24-01/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@ Practicing My DSA skills
 | [0202-happy-number](https://github.com/Harshal24-01/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Harshal24-01/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshal24-01/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
