@@ -27,6 +27,7 @@ Practicing My DSA skills
 | [0414-third-maximum-number](https://github.com/Harshal24-01/DSA/tree/master/0414-third-maximum-number) |
 | [0457-circular-array-loop](https://github.com/Harshal24-01/DSA/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/Harshal24-01/DSA/tree/master/0485-max-consecutive-ones) |
+| [0941-valid-mountain-array](https://github.com/Harshal24-01/DSA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Harshal24-01/DSA/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshal24-01/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
