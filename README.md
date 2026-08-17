@@ -30,6 +30,7 @@ Practicing My DSA skills
 | [0905-sort-array-by-parity](https://github.com/Harshal24-01/DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Harshal24-01/DSA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Harshal24-01/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Harshal24-01/DSA/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshal24-01/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harshal24-01/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -74,6 +75,7 @@ Practicing My DSA skills
 | [0414-third-maximum-number](https://github.com/Harshal24-01/DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Harshal24-01/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Harshal24-01/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -183,4 +185,12 @@ Practicing My DSA skills
 | ------- |
 | [0036-valid-sudoku](https://github.com/Harshal24-01/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Harshal24-01/DSA/tree/master/0048-rotate-image) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Harshal24-01/DSA/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Harshal24-01/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
