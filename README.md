@@ -7,6 +7,7 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshal24-01/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Harshal24-01/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Harshal24-01/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Harshal24-01/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -39,6 +40,7 @@ Practicing My DSA skills
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harshal24-01/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harshal24-01/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshal24-01/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -126,6 +128,7 @@ Practicing My DSA skills
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harshal24-01/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Harshal24-01/DSA/tree/master/0409-longest-palindrome) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Math
