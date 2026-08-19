@@ -1,64 +1,28 @@
 class Solution {
     public String reverseWords(String s) {
-        int l = 0, r = s.length() - 1;
-        while (l < s.length()) {
-            if (s.charAt(l) == ' ') {
-                l++;
-            } else {
+        int i = s.length() - 1;
+        StringBuilder ans = new StringBuilder();
+        while (i >= 0) {
+            while(i >= 0 && s.charAt(i) == ' ') {
+                i--;
+            }
+            if (i < 0) {
                 break;
             }
-        }
-
-        while (r >= 0) {
-            if (s.charAt(r) == ' ') {
-                r--;
-            } else {
-                break;
+            int j = i;
+            while (j >= 0 && s.charAt(j) != ' ') {
+                j--;
             }
-        }
+            ans.append(s.substring(j + 1, i + 1));
 
-        StringBuilder sB = new StringBuilder();
-
-        while (l <= r) {
-            if (s.charAt(l) != ' ') {
-                sB.append(s.charAt(l));
-                l++;
-            } else if (s.charAt(l) == ' ') {
-                if (sB.charAt(sB.length() - 1) != ' ') {
-                    sB.append(' ');
-                    l++;
-                } else {
-                    l++;
-                }
+             while (j >= 0 && s.charAt(j) == ' ') {
+                j--;
             }
-        }
-        int i = 0;
-        int j = sB.length() - 1;
-        while (i < j) {
-            char temp = sB.charAt(i);
-            sB.setCharAt(i, sB.charAt(j));
-            sB.setCharAt(j, temp);
-            i++;
-            j--;
-        }
-
-        int start = 0;
-        int end = 0;
-        while (start < sB.length()) {
-            while (end < sB.length() && sB.charAt(end) != ' ') {
-                end++;
+            if (j >= 0) {
+                ans.append(' ');
             }
-            int p1 = start, p2 = end-1;
-            while (p1 < p2) {
-                char temp = sB.charAt(p1);
-                sB.setCharAt(p1, sB.charAt(p2));
-                sB.setCharAt(p2, temp);
-                p1++;
-                p2--;
-            }
-            start = end + 1;
-            end = start;
+            i = j;
         }
-        return sB.toString();
+        return ans.toString();
     }
 }
