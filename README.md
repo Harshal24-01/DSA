@@ -26,6 +26,7 @@ Practicing My DSA skills
 | [0287-find-the-duplicate-number](https://github.com/Harshal24-01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Harshal24-01/DSA/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshal24-01/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Harshal24-01/DSA/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/Harshal24-01/DSA/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/Harshal24-01/DSA/tree/master/0905-sort-array-by-parity) |
@@ -103,6 +104,7 @@ Practicing My DSA skills
 | [0219-contains-duplicate-ii](https://github.com/Harshal24-01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Harshal24-01/DSA/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshal24-01/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Harshal24-01/DSA/tree/master/0457-circular-array-loop) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
