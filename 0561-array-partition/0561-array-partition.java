@@ -1,13 +1,19 @@
 class Solution {
     public int arrayPairSum(int[] nums) {
-        Arrays.sort(nums);
-
-        int sum = 0;
-
-        for (int i = 0; i < nums.length; i += 2) {
-            sum += nums[i];
+        int k = 10000;
+        int[] countArr = new int[2 * k + 1];
+        for (int i = 0; i < nums.length; i++) {
+            countArr[nums[i] + k]++;
         }
-
-        return sum;
+        boolean isEvenIdx = true;
+        int maxSum = 0;
+        for (int i = 0; i < 2 * k + 1; i++) {
+            while (countArr[i] > 0) {
+                maxSum = maxSum + (isEvenIdx ? (i - k) : 0);
+                countArr[i]--;
+                isEvenIdx = !isEvenIdx;
+            }
+        }
+        return maxSum;
     }
 }
