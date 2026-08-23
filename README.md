@@ -19,6 +19,7 @@ Practicing My DSA skills
 | [0075-sort-colors](https://github.com/Harshal24-01/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Harshal24-01/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Harshal24-01/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Harshal24-01/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Harshal24-01/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -216,4 +217,5 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Harshal24-01/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Harshal24-01/DSA/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
