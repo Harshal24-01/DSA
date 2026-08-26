@@ -105,6 +105,7 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshal24-01/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Harshal24-01/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Harshal24-01/DSA/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Harshal24-01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshal24-01/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -130,6 +131,7 @@ Practicing My DSA skills
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harshal24-01/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harshal24-01/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Harshal24-01/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -152,6 +154,7 @@ Practicing My DSA skills
 | [0002-add-two-numbers](https://github.com/Harshal24-01/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Harshal24-01/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshal24-01/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Harshal24-01/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Harshal24-01/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Harshal24-01/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harshal24-01/DSA/tree/master/0069-sqrtx) |
