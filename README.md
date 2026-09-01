@@ -161,6 +161,7 @@ Practicing My DSA skills
 | [0007-reverse-integer](https://github.com/Harshal24-01/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshal24-01/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Harshal24-01/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Harshal24-01/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Harshal24-01/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Harshal24-01/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harshal24-01/DSA/tree/master/0069-sqrtx) |
@@ -171,6 +172,7 @@ Practicing My DSA skills
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Harshal24-01/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Harshal24-01/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal24-01/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
