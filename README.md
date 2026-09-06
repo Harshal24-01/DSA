@@ -131,6 +131,7 @@ Practicing My DSA skills
 | [0141-linked-list-cycle](https://github.com/Harshal24-01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshal24-01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshal24-01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshal24-01/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -205,6 +206,7 @@ Practicing My DSA skills
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshal24-01/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Harshal24-01/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
