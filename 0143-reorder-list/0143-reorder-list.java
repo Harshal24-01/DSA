@@ -15,7 +15,6 @@ class Solution {
             return;
         }
 
-        // Find middle
         ListNode slow = head;
         ListNode fast = head;
 
@@ -24,7 +23,7 @@ class Solution {
             fast = fast.next.next;
         }
 
-        // Reverse second half
+    
         ListNode prev = null;
         ListNode current = slow.next;
 
@@ -38,7 +37,6 @@ class Solution {
             current = next;
         }
 
-        // Merge two halves
         ListNode first = head;
         ListNode second = prev;
 
