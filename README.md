@@ -112,6 +112,7 @@ Practicing My DSA skills
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshal24-01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Harshal24-01/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Harshal24-01/DSA/tree/master/0036-valid-sudoku) |
+| [0138-copy-list-with-random-pointer](https://github.com/Harshal24-01/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Harshal24-01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshal24-01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshal24-01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -132,6 +133,7 @@ Practicing My DSA skills
 | [0021-merge-two-sorted-lists](https://github.com/Harshal24-01/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Harshal24-01/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harshal24-01/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Harshal24-01/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Harshal24-01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshal24-01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Harshal24-01/DSA/tree/master/0143-reorder-list) |
