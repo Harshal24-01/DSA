@@ -9,14 +9,12 @@ public class DoublyLinkedListNode {
 }
 
 class MyLinkedList {
-
     int size;
     DoublyLinkedListNode head;
     DoublyLinkedListNode tail;
 
     public MyLinkedList() {
         size = 0;
-
         head = new DoublyLinkedListNode(0);
         tail = new DoublyLinkedListNode(0);
 
@@ -25,17 +23,18 @@ class MyLinkedList {
     }
 
     public int get(int index) {
-
-        if(index < 0 || index >= size) {
+        if (index < 0 || index >= size) {
             return -1;
         }
 
-        if(index < size - index) {
+        if (index + 1 < size - index) {
 
             DoublyLinkedListNode curr = head;
+            int i = 0;
 
-            for(int i = 0; i <= index; i++) {
+            while (i < index + 1) {
                 curr = curr.next;
+                i++;
             }
 
             return curr.val;
@@ -43,9 +42,11 @@ class MyLinkedList {
         } else {
 
             DoublyLinkedListNode curr = tail;
+            int i = 0;
 
-            for(int i = 0; i < size - index; i++) {
+            while (i < size - index) {
                 curr = curr.prev;
+                i++;
             }
 
             return curr.val;
@@ -61,74 +62,86 @@ class MyLinkedList {
     }
 
     public void addAtIndex(int index, int val) {
-
-        if(index < 0 || index > size) {
+        if (index < 0 || index > size) {
             return;
         }
 
-        DoublyLinkedListNode pred;
-        DoublyLinkedListNode succ;
+        if (index < size - index) {
 
-        if(index < size - index) {
+            DoublyLinkedListNode pred = head;
+            int i = 0;
 
-            pred = head;
-
-            for(int i = 0; i < index; i++) {
+            while (i < index) {
                 pred = pred.next;
+                i++;
             }
 
-            succ = pred.next;
+            DoublyLinkedListNode node = new DoublyLinkedListNode(val);
+            DoublyLinkedListNode succ = pred.next;
+
+            node.next = succ;
+            node.prev = pred;
+            pred.next = node;
+            succ.prev = node;
 
         } else {
 
-            succ = tail;
+            DoublyLinkedListNode succ = tail;
+            int i = 0;
 
-            for(int i = 0; i < size - index; i++) {
+            while (i < size - index) {
                 succ = succ.prev;
+                i++;
             }
 
-            pred = succ.prev;
+            DoublyLinkedListNode node = new DoublyLinkedListNode(val);
+            DoublyLinkedListNode pred = succ.prev;
+
+            node.next = succ;
+            node.prev = pred;
+            pred.next = node;
+            succ.prev = node;
         }
-
-        DoublyLinkedListNode node = new DoublyLinkedListNode(val);
-
-        node.next = succ;
-        node.prev = pred;
-
-        pred.next = node;
-        succ.prev = node;
 
         size++;
     }
 
     public void deleteAtIndex(int index) {
 
-        if(index < 0 || index >= size) {
+        if (index < 0 || index >= size) {
             return;
         }
 
-        DoublyLinkedListNode node;
+        if (index < size - index - 1) {
 
-        if(index < size - index) {
+            DoublyLinkedListNode pred = head;
+            int i = 0;
 
-            node = head;
-
-            for(int i = 0; i <= index; i++) {
-                node = node.next;
+            while (i < index) {
+                pred = pred.next;
+                i++;
             }
+
+            DoublyLinkedListNode succ = pred.next.next;
+
+            pred.next = succ;
+            succ.prev = pred;
 
         } else {
 
-            node = tail;
+            DoublyLinkedListNode succ = tail;
+            int i = 0;
 
-            for(int i = 0; i < size - index; i++) {
-                node = node.prev;
+            while (i < size - index - 1) {
+                succ = succ.prev;
+                i++;
             }
-        }
 
-        // Remove node
-        node.prev.next = node.next;
-        node.next.prev = node.prev;
+            DoublyLinkedListNode pred = succ.prev.prev;
+
+            pred.next = succ;
+            succ.prev = pred;
+        }
 
         size--;
     }
