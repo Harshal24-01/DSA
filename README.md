@@ -44,6 +44,7 @@ Practicing My DSA skills
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harshal24-01/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Practicing My DSA skills
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshal24-01/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Harshal24-01/DSA/tree/master/0457-circular-array-loop) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Practicing My DSA skills
 | [0707-design-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshal24-01/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
 | ------- |
@@ -203,6 +206,7 @@ Practicing My DSA skills
 | [0067-add-binary](https://github.com/Harshal24-01/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Harshal24-01/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -305,4 +309,13 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
