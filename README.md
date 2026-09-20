@@ -19,6 +19,7 @@ Practicing My DSA skills
 | [0048-rotate-image](https://github.com/Harshal24-01/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Harshal24-01/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harshal24-01/DSA/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshal24-01/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Harshal24-01/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Harshal24-01/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -106,6 +107,7 @@ Practicing My DSA skills
 | ------- |
 | [0035-search-insert-position](https://github.com/Harshal24-01/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harshal24-01/DSA/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshal24-01/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Harshal24-01/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal24-01/DSA/tree/master/0287-find-the-duplicate-number) |
