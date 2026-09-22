@@ -94,6 +94,7 @@ Practicing My DSA skills
 | [0075-sort-colors](https://github.com/Harshal24-01/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Harshal24-01/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Harshal24-01/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Harshal24-01/DSA/tree/master/0561-array-partition) |
@@ -129,6 +130,7 @@ Practicing My DSA skills
 | [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Harshal24-01/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal24-01/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Harshal24-01/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshal24-01/DSA/tree/master/0409-longest-palindrome) |
@@ -172,6 +174,7 @@ Practicing My DSA skills
 | [0067-add-binary](https://github.com/Harshal24-01/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Harshal24-01/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/Harshal24-01/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harshal24-01/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshal24-01/DSA/tree/master/0409-longest-palindrome) |
