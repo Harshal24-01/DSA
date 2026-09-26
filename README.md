@@ -33,6 +33,7 @@ Practicing My DSA skills
 | [0283-move-zeroes](https://github.com/Harshal24-01/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal24-01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshal24-01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Harshal24-01/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshal24-01/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Harshal24-01/DSA/tree/master/0457-circular-array-loop) |
@@ -78,6 +79,7 @@ Practicing My DSA skills
 | [0287-find-the-duplicate-number](https://github.com/Harshal24-01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Harshal24-01/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshal24-01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/Harshal24-01/DSA/tree/master/0457-circular-array-loop) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal24-01/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -99,6 +101,7 @@ Practicing My DSA skills
 | [0242-valid-anagram](https://github.com/Harshal24-01/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshal24-01/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshal24-01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Harshal24-01/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Harshal24-01/DSA/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshal24-01/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -119,6 +122,7 @@ Practicing My DSA skills
 | [0268-missing-number](https://github.com/Harshal24-01/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal24-01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshal24-01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -138,6 +142,7 @@ Practicing My DSA skills
 | [0242-valid-anagram](https://github.com/Harshal24-01/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshal24-01/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshal24-01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshal24-01/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshal24-01/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
