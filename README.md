@@ -49,6 +49,7 @@ Practicing My DSA skills
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshal24-01/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harshal24-01/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshal24-01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/Harshal24-01/DSA/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -148,6 +149,7 @@ Practicing My DSA skills
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshal24-01/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Harshal24-01/DSA/tree/master/0457-circular-array-loop) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshal24-01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
@@ -259,6 +261,7 @@ Practicing My DSA skills
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshal24-01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal24-01/DSA/tree/master/0219-contains-duplicate-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshal24-01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
