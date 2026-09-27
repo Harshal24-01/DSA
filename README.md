@@ -28,6 +28,7 @@ Practicing My DSA skills
 | [0162-find-peak-element](https://github.com/Harshal24-01/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Harshal24-01/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal24-01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Harshal24-01/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshal24-01/DSA/tree/master/0283-move-zeroes) |
@@ -120,6 +121,7 @@ Practicing My DSA skills
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshal24-01/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Harshal24-01/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Harshal24-01/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Harshal24-01/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal24-01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -260,6 +262,7 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshal24-01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Harshal24-01/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal24-01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshal24-01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
@@ -292,6 +295,7 @@ Practicing My DSA skills
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Harshal24-01/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Harshal24-01/DSA/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
