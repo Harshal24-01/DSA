@@ -141,6 +141,7 @@ Practicing My DSA skills
 | [0142-linked-list-cycle-ii](https://github.com/Harshal24-01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshal24-01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Harshal24-01/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Harshal24-01/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal24-01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Harshal24-01/DSA/tree/master/0242-valid-anagram) |
@@ -190,6 +191,7 @@ Practicing My DSA skills
 | [0067-add-binary](https://github.com/Harshal24-01/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Harshal24-01/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/Harshal24-01/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Harshal24-01/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harshal24-01/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -230,6 +232,7 @@ Practicing My DSA skills
 | [0029-divide-two-integers](https://github.com/Harshal24-01/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Harshal24-01/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Harshal24-01/DSA/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Harshal24-01/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Harshal24-01/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshal24-01/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
@@ -263,6 +266,7 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshal24-01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Harshal24-01/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshal24-01/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal24-01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshal24-01/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -318,6 +322,7 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Harshal24-01/DSA/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -326,6 +331,7 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Harshal24-01/DSA/tree/master/0187-repeated-dna-sequences) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -363,4 +369,12 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Harshal24-01/DSA/tree/master/0046-permutations) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Harshal24-01/DSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Harshal24-01/DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
