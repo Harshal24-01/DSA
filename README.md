@@ -44,6 +44,7 @@ Practicing My DSA skills
 | [0496-next-greater-element-i](https://github.com/Harshal24-01/DSA/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Harshal24-01/DSA/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshal24-01/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/Harshal24-01/DSA/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshal24-01/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0904-fruit-into-baskets](https://github.com/Harshal24-01/DSA/tree/master/0904-fruit-into-baskets) |
@@ -161,6 +162,7 @@ Practicing My DSA skills
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshal24-01/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Harshal24-01/DSA/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Harshal24-01/DSA/tree/master/0496-next-greater-element-i) |
+| [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
 | [0904-fruit-into-baskets](https://github.com/Harshal24-01/DSA/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshal24-01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -210,6 +212,7 @@ Practicing My DSA skills
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshal24-01/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal24-01/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshal24-01/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
@@ -303,6 +306,7 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshal24-01/DSA/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
 ## Matrix
 |  |
 | ------- |
