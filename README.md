@@ -26,6 +26,7 @@ Practicing My DSA skills
 | [0119-pascals-triangle-ii](https://github.com/Harshal24-01/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Harshal24-01/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Harshal24-01/DSA/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Harshal24-01/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshal24-01/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -108,6 +109,7 @@ Practicing My DSA skills
 | [0018-4sum](https://github.com/Harshal24-01/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Harshal24-01/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Harshal24-01/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harshal24-01/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshal24-01/DSA/tree/master/0268-missing-number) |
@@ -419,4 +421,16 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Harshal24-01/DSA/tree/master/0496-next-greater-element-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Harshal24-01/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Harshal24-01/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Harshal24-01/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
