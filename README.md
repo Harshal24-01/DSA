@@ -31,6 +31,7 @@ Practicing My DSA skills
 | [0164-maximum-gap](https://github.com/Harshal24-01/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Harshal24-01/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshal24-01/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal24-01/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Harshal24-01/DSA/tree/master/0268-missing-number) |
@@ -246,6 +247,7 @@ Practicing My DSA skills
 | [0070-climbing-stairs](https://github.com/Harshal24-01/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Harshal24-01/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Harshal24-01/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Harshal24-01/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Harshal24-01/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Harshal24-01/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
@@ -270,6 +272,7 @@ Practicing My DSA skills
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Harshal24-01/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Harshal24-01/DSA/tree/master/0258-add-digits) |
 ## Stack
 |  |
@@ -437,4 +440,20 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Harshal24-01/DSA/tree/master/0164-maximum-gap) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshal24-01/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshal24-01/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshal24-01/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshal24-01/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
