@@ -48,6 +48,7 @@ Practicing My DSA skills
 | [0485-max-consecutive-ones](https://github.com/Harshal24-01/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Harshal24-01/DSA/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Harshal24-01/DSA/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Harshal24-01/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Harshal24-01/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshal24-01/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
@@ -171,6 +172,7 @@ Practicing My DSA skills
 | [0454-4sum-ii](https://github.com/Harshal24-01/DSA/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/Harshal24-01/DSA/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Harshal24-01/DSA/tree/master/0496-next-greater-element-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Harshal24-01/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
 | [0904-fruit-into-baskets](https://github.com/Harshal24-01/DSA/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -221,6 +223,7 @@ Practicing My DSA skills
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshal24-01/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal24-01/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Harshal24-01/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshal24-01/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
