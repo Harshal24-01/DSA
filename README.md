@@ -20,6 +20,7 @@ Practicing My DSA skills
 | [0048-rotate-image](https://github.com/Harshal24-01/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Harshal24-01/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harshal24-01/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Harshal24-01/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshal24-01/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshal24-01/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
@@ -262,6 +263,7 @@ Practicing My DSA skills
 | ------- |
 | [0029-divide-two-integers](https://github.com/Harshal24-01/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Harshal24-01/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Harshal24-01/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Harshal24-01/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Harshal24-01/DSA/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Harshal24-01/DSA/tree/master/0187-repeated-dna-sequences) |
@@ -413,6 +415,7 @@ Practicing My DSA skills
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harshal24-01/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Harshal24-01/DSA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Harshal24-01/DSA/tree/master/0078-subsets) |
 ## Rolling Hash
 |  |
 | ------- |
