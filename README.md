@@ -18,6 +18,7 @@ Practicing My DSA skills
 | [0036-valid-sudoku](https://github.com/Harshal24-01/DSA/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Harshal24-01/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Harshal24-01/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Harshal24-01/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Harshal24-01/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harshal24-01/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Harshal24-01/DSA/tree/master/0078-subsets) |
@@ -114,6 +115,7 @@ Practicing My DSA skills
 | ------- |
 | [0015-3sum](https://github.com/Harshal24-01/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harshal24-01/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Harshal24-01/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harshal24-01/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Harshal24-01/DSA/tree/master/0164-maximum-gap) |
@@ -154,6 +156,7 @@ Practicing My DSA skills
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshal24-01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Harshal24-01/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Harshal24-01/DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Harshal24-01/DSA/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harshal24-01/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Harshal24-01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshal24-01/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -212,6 +215,7 @@ Practicing My DSA skills
 | [0020-valid-parentheses](https://github.com/Harshal24-01/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harshal24-01/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Harshal24-01/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Harshal24-01/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Harshal24-01/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0151-reverse-words-in-a-string) |
