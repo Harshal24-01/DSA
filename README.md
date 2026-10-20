@@ -33,6 +33,7 @@ Practicing My DSA skills
 | [0164-maximum-gap](https://github.com/Harshal24-01/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshal24-01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Harshal24-01/DSA/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Harshal24-01/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshal24-01/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harshal24-01/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -120,6 +121,7 @@ Practicing My DSA skills
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Harshal24-01/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Harshal24-01/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Harshal24-01/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Harshal24-01/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshal24-01/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -220,6 +222,7 @@ Practicing My DSA skills
 | [0067-add-binary](https://github.com/Harshal24-01/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Harshal24-01/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0179-largest-number](https://github.com/Harshal24-01/DSA/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Harshal24-01/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Harshal24-01/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harshal24-01/DSA/tree/master/0344-reverse-string) |
@@ -236,6 +239,7 @@ Practicing My DSA skills
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshal24-01/DSA/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Harshal24-01/DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Harshal24-01/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Harshal24-01/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Harshal24-01/DSA/tree/master/0561-array-partition) |
