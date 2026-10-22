@@ -4,14 +4,12 @@ class Solution {
 
         int[] count = new int[1001];
 
-        // Step 1: Count frequency of each element
         for (int num : arr1) {
             count[num]++;
         }
 
         int index = 0;
 
-        // Step 2: Place elements according to arr2
         for (int num : arr2) {
             while (count[num] > 0) {
                 arr1[index] = num;
@@ -20,7 +18,6 @@ class Solution {
             }
         }
 
-        // Step 3: Place remaining elements in ascending order
         for (int num = 0; num < count.length; num++) {
             while (count[num] > 0) {
                 arr1[index] = num;
