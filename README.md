@@ -17,6 +17,7 @@ Practicing My DSA skills
 | [0035-search-insert-position](https://github.com/Harshal24-01/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Harshal24-01/DSA/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Harshal24-01/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Harshal24-01/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Harshal24-01/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Harshal24-01/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Harshal24-01/DSA/tree/master/0066-plus-one) |
@@ -119,6 +120,7 @@ Practicing My DSA skills
 | ------- |
 | [0015-3sum](https://github.com/Harshal24-01/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harshal24-01/DSA/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Harshal24-01/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Harshal24-01/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harshal24-01/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0088-merge-sorted-array) |
@@ -432,6 +434,7 @@ Practicing My DSA skills
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harshal24-01/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Harshal24-01/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Harshal24-01/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Harshal24-01/DSA/tree/master/0078-subsets) |
 ## Rolling Hash
 |  |
