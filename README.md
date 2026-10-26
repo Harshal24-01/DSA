@@ -63,6 +63,7 @@ Practicing My DSA skills
 | [0905-sort-array-by-parity](https://github.com/Harshal24-01/DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Harshal24-01/DSA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Harshal24-01/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Harshal24-01/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Harshal24-01/DSA/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Harshal24-01/DSA/tree/master/1122-relative-sort-array) |
@@ -137,6 +138,7 @@ Practicing My DSA skills
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshal24-01/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Harshal24-01/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Harshal24-01/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Harshal24-01/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Harshal24-01/DSA/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -251,6 +253,7 @@ Practicing My DSA skills
 | [0455-assign-cookies](https://github.com/Harshal24-01/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Harshal24-01/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Harshal24-01/DSA/tree/master/0605-can-place-flowers) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Harshal24-01/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/Harshal24-01/DSA/tree/master/2706-buy-two-chocolates) |
 ## Math
