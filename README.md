@@ -71,6 +71,7 @@ Practicing My DSA skills
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harshal24-01/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshal24-01/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal24-01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshal24-01/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshal24-01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/Harshal24-01/DSA/tree/master/2706-buy-two-chocolates) |
@@ -142,6 +143,7 @@ Practicing My DSA skills
 | [1051-height-checker](https://github.com/Harshal24-01/DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Harshal24-01/DSA/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal24-01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2706-buy-two-chocolates](https://github.com/Harshal24-01/DSA/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -158,6 +160,7 @@ Practicing My DSA skills
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshal24-01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal24-01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -254,6 +257,7 @@ Practicing My DSA skills
 | [0561-array-partition](https://github.com/Harshal24-01/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Harshal24-01/DSA/tree/master/0605-can-place-flowers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Harshal24-01/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal24-01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/Harshal24-01/DSA/tree/master/2706-buy-two-chocolates) |
 ## Math
@@ -330,6 +334,7 @@ Practicing My DSA skills
 | [0904-fruit-into-baskets](https://github.com/Harshal24-01/DSA/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshal24-01/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshal24-01/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal24-01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshal24-01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -367,6 +372,7 @@ Practicing My DSA skills
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshal24-01/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Harshal24-01/DSA/tree/master/0724-find-pivot-index) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal24-01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
