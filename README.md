@@ -72,6 +72,7 @@ Practicing My DSA skills
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harshal24-01/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshal24-01/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1436-destination-city](https://github.com/Harshal24-01/DSA/tree/master/1436-destination-city) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal24-01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshal24-01/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshal24-01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -195,6 +196,7 @@ Practicing My DSA skills
 | [0904-fruit-into-baskets](https://github.com/Harshal24-01/DSA/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Harshal24-01/DSA/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1436-destination-city](https://github.com/Harshal24-01/DSA/tree/master/1436-destination-city) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshal24-01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
@@ -246,6 +248,7 @@ Practicing My DSA skills
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal24-01/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harshal24-01/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
+| [1436-destination-city](https://github.com/Harshal24-01/DSA/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshal24-01/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
