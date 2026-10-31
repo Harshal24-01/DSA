@@ -63,6 +63,7 @@ Practicing My DSA skills
 | [0905-sort-array-by-parity](https://github.com/Harshal24-01/DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Harshal24-01/DSA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/Harshal24-01/DSA/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Harshal24-01/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Harshal24-01/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Harshal24-01/DSA/tree/master/1089-duplicate-zeros) |
@@ -197,6 +198,7 @@ Practicing My DSA skills
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harshal24-01/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
 | [0904-fruit-into-baskets](https://github.com/Harshal24-01/DSA/tree/master/0904-fruit-into-baskets) |
+| [1002-find-common-characters](https://github.com/Harshal24-01/DSA/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Harshal24-01/DSA/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/Harshal24-01/DSA/tree/master/1436-destination-city) |
@@ -251,6 +253,7 @@ Practicing My DSA skills
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal24-01/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harshal24-01/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
+| [1002-find-common-characters](https://github.com/Harshal24-01/DSA/tree/master/1002-find-common-characters) |
 | [1436-destination-city](https://github.com/Harshal24-01/DSA/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshal24-01/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
