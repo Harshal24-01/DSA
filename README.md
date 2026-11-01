@@ -242,6 +242,7 @@ Practicing My DSA skills
 | [0067-add-binary](https://github.com/Harshal24-01/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Harshal24-01/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Harshal24-01/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Harshal24-01/DSA/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Harshal24-01/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Harshal24-01/DSA/tree/master/0242-valid-anagram) |
@@ -284,6 +285,7 @@ Practicing My DSA skills
 | [0069-sqrtx](https://github.com/Harshal24-01/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harshal24-01/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Harshal24-01/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Harshal24-01/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Harshal24-01/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Harshal24-01/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Harshal24-01/DSA/tree/master/0258-add-digits) |
