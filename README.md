@@ -250,6 +250,7 @@ Practicing My DSA skills
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshal24-01/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Harshal24-01/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshal24-01/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal24-01/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harshal24-01/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -291,6 +292,7 @@ Practicing My DSA skills
 | [0258-add-digits](https://github.com/Harshal24-01/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Harshal24-01/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Harshal24-01/DSA/tree/master/0415-add-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harshal24-01/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshal24-01/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshal24-01/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -311,6 +313,7 @@ Practicing My DSA skills
 | [0067-add-binary](https://github.com/Harshal24-01/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Harshal24-01/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Harshal24-01/DSA/tree/master/0415-add-strings) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
