@@ -110,6 +110,7 @@ Practicing My DSA skills
 | [0344-reverse-string](https://github.com/Harshal24-01/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshal24-01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Harshal24-01/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Harshal24-01/DSA/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Harshal24-01/DSA/tree/master/0457-circular-array-loop) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal24-01/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -248,6 +249,7 @@ Practicing My DSA skills
 | [0242-valid-anagram](https://github.com/Harshal24-01/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harshal24-01/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Harshal24-01/DSA/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshal24-01/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Harshal24-01/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
@@ -400,6 +402,7 @@ Practicing My DSA skills
 | [0070-climbing-stairs](https://github.com/Harshal24-01/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Harshal24-01/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Harshal24-01/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/Harshal24-01/DSA/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
 | ------- |
