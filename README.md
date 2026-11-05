@@ -198,6 +198,7 @@ Practicing My DSA skills
 | [0496-next-greater-element-i](https://github.com/Harshal24-01/DSA/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harshal24-01/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
+| [0771-jewels-and-stones](https://github.com/Harshal24-01/DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Harshal24-01/DSA/tree/master/0904-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/Harshal24-01/DSA/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Harshal24-01/DSA/tree/master/1122-relative-sort-array) |
@@ -258,6 +259,7 @@ Practicing My DSA skills
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal24-01/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harshal24-01/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
+| [0771-jewels-and-stones](https://github.com/Harshal24-01/DSA/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/Harshal24-01/DSA/tree/master/1002-find-common-characters) |
 | [1436-destination-city](https://github.com/Harshal24-01/DSA/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshal24-01/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
