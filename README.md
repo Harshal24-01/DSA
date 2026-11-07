@@ -74,6 +74,7 @@ Practicing My DSA skills
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Harshal24-01/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/Harshal24-01/DSA/tree/master/1436-destination-city) |
+| [1598-crawler-log-folder](https://github.com/Harshal24-01/DSA/tree/master/1598-crawler-log-folder) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal24-01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshal24-01/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshal24-01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -263,6 +264,7 @@ Practicing My DSA skills
 | [1002-find-common-characters](https://github.com/Harshal24-01/DSA/tree/master/1002-find-common-characters) |
 | [1436-destination-city](https://github.com/Harshal24-01/DSA/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshal24-01/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1598-crawler-log-folder](https://github.com/Harshal24-01/DSA/tree/master/1598-crawler-log-folder) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
@@ -335,6 +337,7 @@ Practicing My DSA skills
 | [0143-reorder-list](https://github.com/Harshal24-01/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Harshal24-01/DSA/tree/master/0496-next-greater-element-i) |
+| [1598-crawler-log-folder](https://github.com/Harshal24-01/DSA/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshal24-01/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
