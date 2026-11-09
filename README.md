@@ -168,6 +168,7 @@ Practicing My DSA skills
 | [0349-intersection-of-two-arrays](https://github.com/Harshal24-01/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshal24-01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harshal24-01/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Harshal24-01/DSA/tree/master/0441-arranging-coins) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal24-01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -302,6 +303,7 @@ Practicing My DSA skills
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Harshal24-01/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harshal24-01/DSA/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Harshal24-01/DSA/tree/master/0441-arranging-coins) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harshal24-01/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshal24-01/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshal24-01/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
