@@ -115,6 +115,7 @@ Practicing My DSA skills
 | [0392-is-subsequence](https://github.com/Harshal24-01/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Harshal24-01/DSA/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Harshal24-01/DSA/tree/master/0457-circular-array-loop) |
+| [0541-reverse-string-ii](https://github.com/Harshal24-01/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal24-01/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Harshal24-01/DSA/tree/master/0905-sort-array-by-parity) |
@@ -262,6 +263,7 @@ Practicing My DSA skills
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harshal24-01/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshal24-01/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0541-reverse-string-ii](https://github.com/Harshal24-01/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal24-01/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Harshal24-01/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Harshal24-01/DSA/tree/master/0648-replace-words) |
