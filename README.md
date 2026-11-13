@@ -80,6 +80,7 @@ Practicing My DSA skills
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshal24-01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/Harshal24-01/DSA/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Harshal24-01/DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshal24-01/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -126,6 +127,7 @@ Practicing My DSA skills
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshal24-01/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Harshal24-01/DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshal24-01/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
