@@ -83,6 +83,7 @@ Practicing My DSA skills
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Harshal24-01/DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshal24-01/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Harshal24-01/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Practicing My DSA skills
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Harshal24-01/DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshal24-01/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Harshal24-01/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4030-check-ascii-palindromic](https://github.com/Harshal24-01/DSA/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
 |  |
