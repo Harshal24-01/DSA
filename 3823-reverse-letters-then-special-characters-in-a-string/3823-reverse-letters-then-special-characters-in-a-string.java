@@ -6,7 +6,6 @@ class Solution {
         int left = 0;
         int right = arr.length - 1;
 
-        // First: Reverse letters
         while (left < right) {
 
             while (left < right && !Character.isLetter(arr[left])) {
@@ -27,9 +26,7 @@ class Solution {
 
         left = 0;
         right = arr.length - 1;
-
-        // Second: Reverse special characters
-        while (left < right) {
+       while (left < right) {
 
             while (left < right && Character.isLetter(arr[left])) {
                 left++;
