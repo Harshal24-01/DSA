@@ -130,6 +130,7 @@ Practicing My DSA skills
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Harshal24-01/DSA/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshal24-01/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Harshal24-01/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4030-check-ascii-palindromic](https://github.com/Harshal24-01/DSA/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
@@ -280,6 +281,7 @@ Practicing My DSA skills
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshal24-01/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1598-crawler-log-folder](https://github.com/Harshal24-01/DSA/tree/master/1598-crawler-log-folder) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4030-check-ascii-palindromic](https://github.com/Harshal24-01/DSA/tree/master/4030-check-ascii-palindromic) |
 ## Greedy
 |  |
@@ -341,6 +343,7 @@ Practicing My DSA skills
 | [0412-fizz-buzz](https://github.com/Harshal24-01/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harshal24-01/DSA/tree/master/0415-add-strings) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Harshal24-01/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
