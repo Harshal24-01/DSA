@@ -76,6 +76,7 @@ Practicing My DSA skills
 | [1436-destination-city](https://github.com/Harshal24-01/DSA/tree/master/1436-destination-city) |
 | [1598-crawler-log-folder](https://github.com/Harshal24-01/DSA/tree/master/1598-crawler-log-folder) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Harshal24-01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harshal24-01/DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshal24-01/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshal24-01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/Harshal24-01/DSA/tree/master/2706-buy-two-chocolates) |
@@ -126,6 +127,7 @@ Practicing My DSA skills
 | [1089-duplicate-zeros](https://github.com/Harshal24-01/DSA/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Harshal24-01/DSA/tree/master/1768-merge-strings-alternately) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harshal24-01/DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshal24-01/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshal24-01/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -282,6 +284,7 @@ Practicing My DSA skills
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshal24-01/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1598-crawler-log-folder](https://github.com/Harshal24-01/DSA/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/Harshal24-01/DSA/tree/master/1768-merge-strings-alternately) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Harshal24-01/DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harshal24-01/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Harshal24-01/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4030-check-ascii-palindromic](https://github.com/Harshal24-01/DSA/tree/master/4030-check-ascii-palindromic) |
