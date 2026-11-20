@@ -61,6 +61,7 @@ Practicing My DSA skills
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshal24-01/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0904-fruit-into-baskets](https://github.com/Harshal24-01/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Harshal24-01/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Harshal24-01/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Harshal24-01/DSA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Harshal24-01/DSA/tree/master/1002-find-common-characters) |
@@ -123,6 +124,7 @@ Practicing My DSA skills
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshal24-01/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshal24-01/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Harshal24-01/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Harshal24-01/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Harshal24-01/DSA/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshal24-01/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -158,6 +160,7 @@ Practicing My DSA skills
 | [0561-array-partition](https://github.com/Harshal24-01/DSA/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshal24-01/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Harshal24-01/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Harshal24-01/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshal24-01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Harshal24-01/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Harshal24-01/DSA/tree/master/1051-height-checker) |
